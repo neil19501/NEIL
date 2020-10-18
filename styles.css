@@ -1,0 +1,101 @@
+#full{
+    background-color: rgba(209, 201, 205, 0.986);
+    height: 1350px;
+}
+
+
+#navbarDropdown{
+    color: antiquewhite;
+} 
+
+
+
+
+#aaa{
+    background-color: rgb(245, 245, 245);
+    height: 370px;
+}
+
+
+#demo1{
+    text-align: center;
+}
+#demo2{
+    text-align: center;
+    
+}
+#demo3{
+    text-align: center;
+}
+
+.myButton {
+	background-color:#202421;
+	border-radius:28px;
+    border:1px solid #ededed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:26px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #d4dbd2;
+}
+.myButton:hover {
+	background-color:rgba(86, 87, 71, 0.685);
+} 
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+#container-fluid {
+    text-align: center; 
+    padding: 15px;
+
+}
+
+.myButton{
+    text-align: center;
+
+    width: 250px;
+    height: 110px;
+}
+
+
+#container-fluid a{
+    font-size: medium;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+.res{
+    padding: 20px;
+    padding-left: 111px;
+}
+
+.rece{
+    padding: 30px;
+    padding-left: 110px;
+}
+
+.reco{
+    padding: 30px;
+    padding-left: 109px;
+}
+
+
+.bbb{
+    background-color: rgb(245, 245, 245);
+    height: 760px;
+    
+}
+
