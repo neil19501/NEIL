@@ -120,6 +120,7 @@ label #cancel{
 
 
 #aaa{
+    border-radius: 33px;
     background-color: rgb(245, 245, 245);
     height: 370px;
 }
@@ -202,6 +203,7 @@ label #cancel{
 
 
 .bbb{
+    border-radius: 33px;
     background-color: rgb(245, 245, 245);
     height: 760px;
     
