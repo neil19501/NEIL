@@ -1,6 +1,6 @@
 #full{
     background-color: rgba(209, 201, 205, 0.986);
-    height: 1350px;
+    height: 1400px;
 }
 
 
@@ -48,7 +48,7 @@
     display: block;
     height: 100%;
     width: 100%;
-    line-height: 65px;
+    line-height: 47px;
     font-size: 20px;
     color: white;
     padding-left: 40px;
@@ -93,7 +93,7 @@ label #cancel{
     left: -195px;
     top: 110px;
     font-size: 30px;
-    color: #0a5275;
+    color: #ebebeb;
     padding: 4px 9px;
     transition: all .5s ease;
 } 
@@ -108,14 +108,13 @@ label #cancel{
 }
 
 #check:checked ~ label #cancel{
+    
     left: 195px;
 }
 
 #check:checked ~ #nnn{
     margin-left: 250px;
 }
-
-
 
 
 
@@ -139,7 +138,7 @@ label #cancel{
 
 .myButton {
 	background-color:#202421;
-	border-radius:28px;
+	border-radius:18px; 
     border:1px solid #ededed;
 	display:inline-block;
 	cursor:pointer;
@@ -162,7 +161,7 @@ label #cancel{
 
 
 
-#container-fluid {
+#container {
     text-align: center; 
     padding: 15px;
 
@@ -176,7 +175,7 @@ label #cancel{
 }
 
 
-#container-fluid a{
+#container a{
     font-size: medium;
     text-decoration: none;
     color: white;
