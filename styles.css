@@ -112,13 +112,13 @@ label #cancel{
     left: 195px;
 }
 
-#check:checked ~ #nnn{
+#check:checked ~ #p-3{
     margin-left: 250px;
 }
 
 
 
-#aaa{
+#p-one{
     border-radius: 33px;
     background-color: rgb(245, 245, 245);
     height: 370px;
@@ -185,23 +185,23 @@ label #cancel{
 
 
 
-.res{
+.r1{
     padding: 20px;
     padding-left: 111px;
 }
 
-.rece{
+.r2{
     padding: 30px;
     padding-left: 110px;
 }
 
-.reco{
+.r3{
     padding: 30px;
     padding-left: 109px;
 }
 
 
-.bbb{
+.p-two{
     border-radius: 33px;
     background-color: rgb(245, 245, 245);
     height: 760px;
